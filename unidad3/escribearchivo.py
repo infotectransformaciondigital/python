@@ -1,0 +1,16 @@
+
+archivo = open("archivo2.txt", "w")
+archivo.write("Alberto\n")
+archivo.write("Angeles\n")
+archivo.write("Angelina\n")
+archivo.write("Carlos Antonio\n")
+archivo.write("Carlos Alejandro\n")
+archivo.write("Carlos Moreno\n")
+archivo.write("Carmen Gabriela\n")
+archivo.write("César Augusto\n")
+archivo.write("Cynthia\n")
+archivo.write("David\n")
+archivo.write("Erendira\n")
+
+archivo.close()
+print("Archivo creado correctamente")
